@@ -15,7 +15,7 @@ Display colorful output using the Rich library.
 
 How to download 
 
-Allow Trimix to access device files 
+Allow Termux to access device files 
 ```bash
 termux-setup-storage
 ```
